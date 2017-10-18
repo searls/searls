@@ -1,8 +1,11 @@
 {
-  "name": "John K. Paul",
-  "website": "johnkpaul.com",
-  "email": "john@johnkpaul.com",
-  "twitter": "johnkpaul",
-  "github": "johnkpaul",
-  "linkedin": "jkpaul"
+  "name": "Justin Searls",
+  "email": {
+    "personal": "searls@gmail.com",
+    "work": "justin@testdouble.com"
+  },
+  "twitter": "searls",
+  "github": "searls",
+  "linkedin": "searls",
+  "website": "https://testdouble.com/agency"
 }

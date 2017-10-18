@@ -1,15 +1,18 @@
 {
-  "name": "johnkpaul",
-  "version": "1.0.0",
-  "description": "John K. Paul, the person",
+  "name": "searls",
+  "version": "0.0.1",
+  "description": "Justin Searls' contact info",
   "main": "index.js",
+  "repository": "searls/searls",
   "scripts": {
     "postinstall": "cat info.json"
   },
   "keywords": [
     "person",
-    "contact"
+    "contact",
+    "searls",
+    "test double"
   ],
-  "author": "John K. Paul",
-  "license": "ISC"
+  "author": "Justin Searls <searls@gmail.com>",
+  "license": "GPL-3.0"
 }
