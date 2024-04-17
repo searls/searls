@@ -1,6 +1,6 @@
 {
   "name": "searls",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Justin Searls' contact info",
   "main": "index.js",
   "repository": "searls/searls",
